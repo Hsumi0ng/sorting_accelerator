@@ -1,2 +1,3 @@
 # sorting_accelerator
-Friends coursework from Cornell 5745
+Friend's coursework from Cornell 5745
+Discuss with me
